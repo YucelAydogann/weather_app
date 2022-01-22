@@ -1,7 +1,9 @@
 import 'location_serv.dart';
 import 'package:weather_app/services/network_serv.dart';
 
-const apiKey = 'b974ec7406324a098bd7ee17e861d380';
+//TODO ApiKey
+//you need to apikey from openweathermap with free
+const apiKey = 'your apikey here';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 const sevenDaysWeatherMapURL = 'https://api.openweathermap.org/data/2.5/onecall';
 
